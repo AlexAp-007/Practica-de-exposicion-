@@ -29,16 +29,3 @@ Se procesan las calificaciones y se realizan las operaciones necesarias.
 ### Load (Carga)
 Los resultados se guardan en el archivo `calificaciones_procesadas.csv`.
 
-## Cómo ejecutar el proyecto
-
-1. Descargar los archivos del repositorio.
-2. Abrir la carpeta del proyecto.
-3. Ejecutar el programa:
-
-```bash
-python etl.py
-```
-
-## Autor
-
-AlexAp-007
